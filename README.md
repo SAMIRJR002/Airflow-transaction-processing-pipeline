@@ -29,24 +29,24 @@ ingest → validate → detect_fraud → process_payments → generate_report
 ## 🖼️ Screenshots
 
 ### DAG Graph - All tasks success
-![DAG Graph](<img width="3803" height="1813" alt="Screenshot 2026-04-17 164604" src="https://github.com/user-attachments/assets/cc25f331-cca1-409d-8f45-a33989debabe" />
+(<img width="3803" height="1813" alt="Screenshot 2026-04-17 164604" src="https://github.com/user-attachments/assets/cc25f331-cca1-409d-8f45-a33989debabe" />
 )
 
 ### Gantt Chart - Tasks execution timeline
-![Gantt Chart](<img width="3834" height="1644" alt="Screenshot 2026-04-17 164623" src="https://github.com/user-attachments/assets/b99a07bc-1998-411e-805f-b1f1649d6326" />
+(<img width="3834" height="1644" alt="Screenshot 2026-04-17 164623" src="https://github.com/user-attachments/assets/b99a07bc-1998-411e-805f-b1f1649d6326" />
 )
 
 ### DAG Details - 2 successful runs
-![DAG Details](<img width="3804" height="1595" alt="Screenshot 2026-04-17 164541" src="https://github.com/user-attachments/assets/1a912144-8a0a-4805-97a4-f961d131feb6" />
+(<img width="3804" height="1595" alt="Screenshot 2026-04-17 164541" src="https://github.com/user-attachments/assets/1a912144-8a0a-4805-97a4-f961d131feb6" />
 
 )
 
 ### Task Duration Over Time
-![Task Duration](<img width="3778" height="1669" alt="Screenshot 2026-04-17 164655" src="https://github.com/user-attachments/assets/dd0716b4-0ec2-4734-874d-e743f8cde5af" />
+(<img width="3778" height="1669" alt="Screenshot 2026-04-17 164655" src="https://github.com/user-attachments/assets/dd0716b4-0ec2-4734-874d-e743f8cde5af" />
 )
 
 ### Task Details
-![Task Details](<img width="3760" height="1796" alt="Screenshot 2026-04-17 164722" src="https://github.com/user-attachments/assets/4f287e01-b01e-430f-8795-440e37bcf533" />
+(<img width="3760" height="1796" alt="Screenshot 2026-04-17 164722" src="https://github.com/user-attachments/assets/4f287e01-b01e-430f-8795-440e37bcf533" />
 
 )
 ---
