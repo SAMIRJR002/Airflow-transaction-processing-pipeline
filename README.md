@@ -64,7 +64,7 @@ ingest → validate → detect_fraud → process_payments → generate_report
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/airflow-pipeline.git
+git clone https://github.com/SAMIRJR002/airflow-pipeline.git
 cd airflow-pipeline
 ```
 
