@@ -37,7 +37,6 @@ net_amount: 3335.96
 fraud_rate: 20.0
 ==================================================
 📁 Project Structure
-text
 airflow-pipeline/
 │
 ├── dags/
