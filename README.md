@@ -66,3 +66,5 @@ Create requirements.txt:
 txt
 apache-airflow==2.7.1
 apache-airflow-providers-postgres==5.5.2
+screenshots:
+<img width="3760" height="1796" alt="Screenshot 2026-04-17 164722" src="https://github.com/user-attachments/assets/8ebc2c6a-0a1f-40b8-8aed-f64275de6e34" />
